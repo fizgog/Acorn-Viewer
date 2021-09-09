@@ -1,5 +1,5 @@
 # Acorn-Viewer
-Windows hex and sprite viewer for the Acorn Atom and BBC
+Windows hex and sprite viewer for the Acorn Atom and BBC Micro
 
 <img src="Images/BBC Sprite Viewer.png" alt="BBC Sprite Viewer"/>
 
