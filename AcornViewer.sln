@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcornViewer", "AcornViewer\AcornViewer.csproj", "{CAFCDA54-D471-4996-8F8B-7319C98BF93B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFCDA54-D471-4996-8F8B-7319C98BF93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFCDA54-D471-4996-8F8B-7319C98BF93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFCDA54-D471-4996-8F8B-7319C98BF93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFCDA54-D471-4996-8F8B-7319C98BF93B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CED93A40-67F0-45E5-AC30-1E07988EAC24}
+	EndGlobalSection
+EndGlobal
